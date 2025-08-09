@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ParaReadme/logo.png" width="400" alt="Katawa Shoujo 3DS">
+  <img src="logo.png" width="400" alt="Katawa Shoujo 3DS">
 </p>
 
 # Katawa Shoujo - 3DS Port
