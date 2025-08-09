@@ -1,0 +1,8 @@
+BOCA: #ebaa9d
+BOCA-Sombra: #c48e84
+BOCA-Complemento-Sombra: #c48e84 (150)
+
+CEJA: #3e3044 (180)
+Complemento ceja: #ad8982 (135)
+
+NARIZ: negro (30)

@@ -1,0 +1,26 @@
+﻿Key,Text
+menu_start,"""Start"""
+menu_load,"""Load"""
+menu_extras,"""Extras"""
+menu_options,"""Options"""
+menu_back,"""Return"""
+menu_thisMenu,"""This is the menu :D"""
+menu_btnPressed,"""Button pressed:  """
+menu_hechoPor,"""Port made by: Cratobeta"""
+,
+load_title,"""Load"""
+load_playTime,"""Playtime: """
+,
+save_title,"""Save"""
+,
+game_menu,"""Menu"""
+game_mainMenu,"""Main menu"""
+game_createSave,"""Create new save state"""
+game_confirmDelete_info,"""Are you sure you want to delete this save?"""
+game_yes,"""Yes"""
+game_no,"""No"""
+game_continue,"""Continue"""
+game_confirmSave_info,"""Are you sure you want to overwrite your save?"""
+game_confirmProcess_info,"""Progress successfully saved."""
+game_confirmLoad_info,"""Are you sure you want to discard your progress?"""
+,

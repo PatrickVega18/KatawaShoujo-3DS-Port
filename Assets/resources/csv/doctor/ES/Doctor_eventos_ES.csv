@@ -1,0 +1,13 @@
+﻿Id,Evento,Auto,Inicial,Forzado,Tiempo,Tamano,Coordenadas,Lower,Lower_Tamano,Lower_Coordenadas,Efecto,Efecto_Volumen,Efecto_Esperar
+intro_01,fadeInBlackBox,1,0,0,0,410x260,0 0 0,fadeInBlackBox,330x250,0 0 0,,,
+02_centralText,centralText,,,,,,,,,,,,
+03_blOut,fadeOutBlackBox,1,0,0,2,410x260,0 0 0,fadeOutBlackBox,330x250,0 0 0,,,
+04_bigboxsay,bigBoxSay,1,0,1,,,,,,,,,
+46_bbsQuit,bigBoxSayQuit,1,0,1,,,,,,,,,
+58_sliderText,SliderText,1,1,0,20,600x240,100 0 0,,,,,,
+59_wait,wait,,,,1,,,,,,,,
+66_bbIn,allFadeInBlackBox,1,0,0,0.25,410x260,0 0 0,fadeInBlackBox,330x250,0 0 0,,,
+67_sTQuit,SliderTextQuit,1,0,0,,,,,,,,,
+68_bbOut,allFadeOutBlackBox,1,0,0,0.25,410x260,0 0 0,fadeOutBlackBox,330x250,0 0 0,,,
+109_wbIn,allFadeInWhiteBox,1,0,0,3,410x260,0 0 0,fadeInWhiteBox,330x250,0 0 0,,,
+110_cambio,,,,,,,,,,,,,

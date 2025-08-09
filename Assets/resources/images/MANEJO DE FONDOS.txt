@@ -1,0 +1,10 @@
+Toda imagen de fondo o vfx.
+
+Tamaño de Imagen
+Deberá ser puesta en un alto de: 256px
+El ancho dependerá si la imagen se acomoda o no.
+
+Tamaño de Lienzo
+En caso de no encajar el ancho, lo ponemos en: 512px
+
+Toma imagen deberá ser exportada en "Bicúbica"

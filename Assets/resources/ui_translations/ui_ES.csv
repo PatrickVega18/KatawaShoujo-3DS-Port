@@ -1,0 +1,26 @@
+﻿Key,Text
+menu_start,"""Inicio"""
+menu_load,"""Cargar"""
+menu_extras,"""Extras"""
+menu_options,"""Opciones"""
+menu_back,"""Volver"""
+menu_thisMenu,"""Este es el menú :D"""
+menu_btnPressed,"""Botón presionado: """
+menu_hechoPor,"""Port hecho por: Cratobeta"""
+,
+load_title,"""Cargar"""
+load_playTime,"""Tiempo de juego: """
+,
+save_title,"""Guardar"""
+,
+game_menu,"""Menú"""
+game_mainMenu,"""Menú principal"""
+game_createSave,"""Crear nuevo estado"""
+game_confirmDelete_info,"""¿Está seguro de querer borrar este estado?"""
+game_yes,"""Sí"""
+game_no,"""No"""
+game_continue,"""Continuar"""
+game_confirmSave_info,"""¿Está seguro de querer sobrescribir su estado?"""
+game_confirmProcess_info,"""Progreso guardado con éxito"""
+game_confirmLoad_info,"""¿Está seguro de querer desechar su progreso?"""
+,

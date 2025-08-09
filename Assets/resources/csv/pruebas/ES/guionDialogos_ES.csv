@@ -1,0 +1,7 @@
+﻿Manejo especial,,
+C_{nombreOrigen}-{nombreDestino},C_Misha-Shizune,Con esto le damos el color de Misha e imprime el nombre de Shizune
+{nombre1}_SPACE_{nombre2},Shizune_SPACE_Misha,Ponemos dos nombres
+,,
+<wait-X>,"""Este es un dialogo <wait-0.5> y seguimos""",Pone una pausa en medio del diálogos en segundos
+<line_X-run_width>,"""<line_2-run_150> Este es un diálogo de más de una línea XD""",Corre con el díalogo hasta la línea X de forma completa y continúa en el width destino
+,,

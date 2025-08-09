@@ -1,0 +1,94 @@
+﻿ID,Nombre,Texto,Velocidad
+intro_01,,,
+2,,Una suave brisa hace que las ramas desnudas en lo alto repiquen como si fuesen campanillas de viento de madera.,1
+3,,"Este es un retiro popular para las parejas durante el verano. Los árboles de hoja caduca proveen un hermoso dosel verde, lejos de la vista de maestros y compañeros de clase.",1
+4,,"Pero ahora, a finales de invierno, se siente como si estuviera de pie bajo una pila de astillas.",1
+5,,Soplo dentro de mis manos ahuecadas y las froto con fuerza para evitar que se entumezcan en este frío.,1
+6,Hisao,"""¿Pues cuánto tiempo se supone que esté esperando aquí? Estoy seguro de que la nota decía 4:00 p. m.""",1
+7,,Ah sí… la nota… deslizada entre las páginas de mi libro de matemáticas mientras no miraba.,1
+8,,"En cuanto a clichés, soy más fan de “la carta en el casillero”, pero por lo menos esta manera muestra un poco de iniciativa.",1
+9,,"Mientras reflexiono el significado de la nota, la nevada se espesa gradualmente.",1
+10,,"Los copos de nieve, silenciosamente cayendo desde el cielo pintado de blanco, son la única señal del pasar del tiempo en este mundo paralizado.",1
+11,,Su lento descenso en el bosque congelado hace parecer que el tiempo se ha ralentizado hasta casi detenerse.,1
+12_crujido,,"El crujido de la nieve seca bajo los pies me da un sobresalto, interrumpiendo la tranquilidad. Alguien se me acerca por detrás.",1
+13,???,"""Hola… ¿Hisao? ¿Viniste?""",1
+14,,Una titubeante y apenas audible pregunta.,1
+15,,"Sin embargo, reconozco al instante a la dueña de esa delicada voz.",1
+16,,Siento que mi corazón deja de latir.,1
+17,,"Es una voz que he escuchado cientos de veces, pero nunca como algo más que un curioso escuchando una conversación ajena.",1
+18,,"Volteo para darle la cara a esta voz, la voz de mis sueños, y mi corazón comienza a correr…",1
+19_wbIn,,,
+20_fpCambio,,,
+21_wbOut,,,
+22,Hisao,"""¿Iwanako? Recibí una nota diciéndome que esperara aquí… ¿era tuya?""",1
+23,,Maldita sea. Me pasé toda la tarde tratando de pensar en una buena línea y eso fue el resultado.,1
+24,,Patético.,1
+25,Iwanako,"""Ahh… sí. Le pedí a una amiga que te diera esa nota… Estoy tan contenta de que la hayas recibido.""",1
+26,,"Una tímida y alegre sonrisa que me pone tan tenso que no podría mover un músculo, aunque lo intentara.",1
+27_wbIn,,,
+28_fpCambio,,,
+29_wbOut,,,
+30_hAttk,,,
+31_hAttk,,,
+32,,"Mi corazón está golpeándome el pecho, como si tratase de reventármelo para salir y reclamar a esta chica como suya.",1
+33_wbIn,,,
+34_fpCambio,,,
+35_wbOut,,,
+36,Hisao,"""Así que… ah… aquí estamos. En el frío…""",1
+37,,"Una vez más, el viento agita las ramas. El ruido cacofónico es música para mis oídos.",1
+38,,Iwanako se estremece muy suavemente ante la ráfaga de viento.,1
+39,,"A medida que pasa, se reincorpora, como si la apoyara una nueva confianza.",1
+40,,Su mirada se encuentra con la mía mientras perezosamente enrolla su largo y oscuro cabello alrededor de su dedo.,1
+41,,"Al mismo tiempo, el latido ansioso de mi corazón se hace más fuerte.",1
+42_wbIn,,,
+43_fpCambio,,,
+44_wbOut,,,
+45,,"Mi garganta se aprieta; dudo poder siquiera forzar una palabra, aun si lo intentara.",1
+46,Iwanako,"""Ya ves…""",1
+47_hAttk,,,
+48,Iwanako,"""… quería saber…""",1
+49_hAttk,,,
+50_hAttkF,,,
+51,Iwanako,"""… si saldrías conmigo…""",1
+52,,"Me quedo de pie, inmóvil, con excepción del fuerte latido de mi corazón.",1
+53,,"Quiero decir algo como respuesta, pero mis cuerdas vocales se sienten como si hubieran sido estiradas más allá del punto de ruptura.",1
+54,Iwanako,"""… ¿Hisao?""",1
+55,,"Trato de masajear mi garganta, pero esto solo envía espinas de dolor cegador a lo largo de mis brazos.",1
+56,Iwanako,"""¡¿Hisao?!""",1
+57_hAttkF,,,
+58,,"Mi cuerpo entero se congela, exceptuando mis ojos, que se disparan abiertos en terror.",1
+59_hAttkF,,,
+60_hAttk,,,
+61_hAttkF,,,
+62_hStop,,,
+63,Iwanako,"""¡HISAO!""",1
+64,,"El latido en mi pecho repentinamente se detiene, y mis rodillas se debilitan.",1
+65_flashback,,,
+66_bbInL,,,
+67_bigboxsay,,,
+68,bbs1-line1-line2-line3,"El mundo a mi alrededor —el dosel de ramas desnudas, el pálido cielo de invierno, Iwanako corriendo hacia mí— todo esto se desvanece en la oscuridad.",1
+69,bbs1-line4-line5-line6,Lo último que recuerdo antes de caer son los sonidos de Iwanako gritando pidiendo ayuda y el traqueteo incesante de las ramas en lo alto…,1
+70_finalizamos,,,
+71_cambioEscena,,,
+71,,,
+72,,,
+73,,,
+74,,,
+75,,,
+76,,,
+77,,,
+78,,,
+79,,,
+80,,,
+81,,,
+82,,,
+83,,,
+84,,,
+85,,,
+86,,,
+87,,,
+88,,,
+89,,,
+90,,,
+91,,,
+92,,,

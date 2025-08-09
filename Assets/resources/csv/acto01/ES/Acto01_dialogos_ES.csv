@@ -1,0 +1,361 @@
+﻿ID,Nombre,Texto,Velocidad
+intro_01,,,
+2,,El portón se veía demasiado pomposo para lo que era.,1
+3,,"De hecho, los portones en general parecen tener esa característica, pero más este en especial.",1
+4,,"Ladrillos rojos, hierro forjado negro y yeso gris, ensamblado en un todo que no se sentía acogedor en lo más mínimo.",1
+5,,"Me preguntaba si se veía como un portón de escuela debería verse, pero realmente no pude decidir. Probablemente no.",1
+6,,"Por supuesto, no quería quedarme ahí pensando sobre el portón por demasiado tiempo, entonces entré por este con un ritmo enérgico que se sintió sorprendentemente bien.",1
+7,,Avanzar se siente bien.,1
+8,,"Así que camino hacia el edificio principal de la Academia Yamaku con este paso rápido. Me encuentro solo, ya que mis padres están llevando mis cosas a los dormitorios y se supone que hay alguien esperándome.",1
+9,,"Los jardines son increíblemente exuberantes, llenos de verde.",1
+10,,"No se siente como el tipo de campus que una escuela tendría, es más como un parque, con un camino limpio pasando por los árboles y el olor a césped recién podado y todas las demás cosas como en los parques.",1
+11,,Palabras como “limpio” e “higiénico” aparecen en mi mente. Me hacen temblar.,1
+12,,Me las quito de encima. Mantente con mente abierta ahora. Es tu nueva vida. Tienes que tomártelo tal y como venga.,1
+13,,Eso es lo que me digo a mí mismo.,1
+14,,"Algunos edificios grandes se asoman sobre las copas frondosas de los árboles, demasiado grandes y demasiado numerosos para solo una escuela.",1
+15,,Todo parece fuera de lugar; es diferente de lo que pensé que sabía de ellas.,1
+16,,"Es un valle misterioso. Aunque me hayan dicho que esta es mi nueva escuela, en el fondo no se siente como tal.",1
+17,,Me pregunto si el sentimiento es real o causado por mis expectativas de una escuela para discapacitados.,1
+18,,"Hablando de eso, no veo a nadie más aquí. Es un poco desconcertante.",1
+19,,"Me hace desear que hubiera alguien más aquí para poder anclarme en algo tangible, en lugar de tener esta sensación de haber entrado en otra dimensión.",1
+20,,"Los árboles susurran con el viento, y los tonos verdes destellando a mi alrededor capturan mi atención.",1
+21,,"Me hace pensar sobre hospitales otra vez, el cómo dicen que las salas de operaciones están pintadas de verde porque el verde es un color tranquilizador.",1
+22,,"Entonces ¿por qué es que me siento tan ansioso, a pesar de toda esta vegetación?",1
+23,,…,1
+24,,"Solo después de estar delante del presuntuoso edificio principal, me sorprendo a mí mismo al darme cuenta del porqué el portón me molestaba:",1
+25,,"Era la última oportunidad que tenía de volver atrás, aunque no tuviera una vida a la cual regresar.",1
+26,,"Pero aun así, después de entrar, no había ninguna manera en absoluto de volver atrás.",1
+27,,"Sintiéndome nervioso y con este pensamiento en la mente, abro la puerta de entrada.",1
+28,,"Un hombre alto con mala postura me ve al entrar. Somos las únicas personas en el vestíbulo, así que es simplemente lógico.",1
+29,Hombre Alto,"""Usted debe ser… Ni… Na… ¿Niki?""",1
+30,Hisao,"""Nakai.""",1
+31,Hombre Alto,"""Así que es usted. Excelente. Soy su maestro de cabecera y de ciencia. Mi nombre es Mutou.""",1
+32,Mutou,"""Bienvenido.""",1
+33,,"Intercambiamos un apretón de manos que no es ni firme ni torpe, y mira su reloj.",1
+34,Mutou,"""El jefe de enfermería pidió que fueras con él para una breve visita de chequeo, pero ya no hay tiempo para eso.""",1
+35,Hisao,"""Oh. ¿Debería ir más tarde?""",1
+36,Mutou,"""Sí, en la tarde puede que esté bien. Deberíamos irnos y presentarte al resto de la clase. Ya están esperándote.""",1
+37,,"¿Esperándome? En verdad no me gusta ser el centro de atención, pero supongo que es inevitable en una situación como esta.",1
+38,,"De alguna manera, no saber qué es lo que me espera me hace sentir muy nervioso.",1
+39,,"Pensando en esto, casi dejo pasar lo que el maestro está diciendo.",1
+40_mePresento,Mutou,"""¿Quieres presentarte tú mismo a la clase?""",1
+41_checkPresento,,,1
+42_siPresento,Hisao,"""Sí, claro. Quiero decir, ¿no es eso normal?""",1
+43,Mutou,"""Por supuesto. Pero no a todos les agrada ser el centro de atención.""",1
+44,,"Probablemente soy una de esas personas, pero creo que yo debería ser quien da la primera impresión de mí mismo.",1
+45,Hisao,"""Cierto, pero no es ningún problema.""",1
+46,Mutou,"""Entonces vamos.""",1
+47,,Mi corazón late con fuerza dentro de mi pecho y me mantiene pensando sobre mi condición mientras subo por las escaleras junto con el maestro.,1
+48_auto,,,
+49_wait,,,
+50,,La tercera puerta del corredor del tercer piso está marcada como el salón de clase 3-3.,1
+51_sfx,,Mutou abre la puerta y entra.,1
+52,Mutou,"""Buenos días a todos, discúlpenme por llegar tarde otra vez.""",1
+53,,"Dudo por una fracción de segundo en la puerta, congelándome justo en ese lugar.",1
+54,,"¡Ah, contrólate! Este es un gran paso, lo sé… Pero no tiene sentido preocuparse tanto por ello, al menos no tan pronto.",1
+55_bbIn,,,
+56_fpCambio,,,
+57_bbOut,,,
+58,,"Sigo al maestro hacia dentro del salón y veo alrededor, parcialmente para no tener que encontrarme con las miradas curiosas de mis nuevos compañeros de clase.",1
+59,,Es bastante espacioso; el techo es inusualmente alto y hay mucho espacio de sobra alrededor y entre cada escritorio.,1
+60,,"Una pared entera ocupada por pizarrones, además de ventanas altas y anticuadas únicamente lo hacen parecer más grande.",1
+61,,Los bancos de los estudiantes son solo escritorios estándar de madera con un cajón debajo para libros y sillas de madera con armazón de metal. Simple y eficiente.,1
+62,,"Me detengo al frente del salón de clase y volteo a ver a los demás estudiantes. Todos parecen normales, como estudiantes en cualquier otra escuela. Pero entonces, ¿por qué estarían aquí?",1
+63,,"Probablemente son como yo y hay algo mal en ellos, solo que no se evidencia inmediatamente. Entonces, me doy cuenta de que a una de las chicas parece faltarle el pulgar de la mano derecha. Es un poco discordante.",1
+64,,"A pesar de la tendencia natural de escuchar cuando alguien habla de ti, dejo de oír al maestro a medio discurso mientras me presenta a la clase.",1
+65,,"Noto un destello de cabello oscuro y veo que alguien me mira. Una chica con cabello verdaderamente largo y lacio que llama mucho la atención. Cuando ve que la miro, se cubre la cara con las manos como si eso la hiciera invisible.",1
+66,,Hay un chico con un bastón apoyándose contra los casilleros en la parte trasera del salón. Es raro ver a alguien tan joven con un bastón.,1
+67,,"Otra chica parece estar haciendo algunos movimientos extraños con las manos. ¿Lenguaje de señas? Ella mira por encima de la montura de sus anteojos, y luego regresa a lo que fuera que estaba haciendo.",1
+68,,Es bastante linda. También lo es la chica con apariencia alegre de cabello rosado que se sienta a su lado. Es muy difícil pasarla por alto; no sé cómo es que no la noté desde el momento en que entré…,1
+69,Mutou,"""… por favor denle la bienvenida a nuestro más nuevo compañero de clase.""",1
+70,,"Aplaude y también lo hacen todos los demás, excepto una chica en la primera fila que solo tiene una mano. Me avergüenzo un poco, pero lo oculto con una reverencia de agradecimiento por este aplauso que no merecía.",1
+71_checksum,,,
+71_siPresento,,Un silencio colectivo me dice que debería abrir la boca ahora.,1
+72,Hisao,"""Bueno… soy Hisao Nakai.""",1
+73,,¿Y después de eso?,1
+74,Hisao,"""Mis pasatiempos son la lectura y el futbol. Espero llevarme bien con todos aunque sea un estudiante nuevo.""",1
+75,,¿Y después?,1
+76,,Estoy siendo tan aburrido. Esto es exactamente como cualquier otra presentación. Debería decir algo más. Algo más emocionante.,1
+77,,"Termino sin decir nada, y el maestro continúa a partir de ahí.",1
+78,,"Sin embargo, todo mundo parece estar satisfecho incluso con lo poco que dije. Algunas chicas se susurran entre sí, lanzando miradas hacia mí. Podría haber sido peor.",1
+79,,…,1
+80,,Escucho al maestro mientras sigue hablando sobre llevarse bien a la vez que paso la mirada por el salón de clase.,1
+81,,"Todos parecen escucharlo atentamente y cuando acaba, aplauden de nuevo, se siente como algo extraño de hacer.",1
+82,,"La chica en la primera fila aplaude esta vez, con su única mano contra la otra muñeca que termina en un muñón vendado.",1
+83,,Me hace sentir un poco mal.,1
+84_bbIn,,,1
+85_fpCambio,,,1
+86_bbOut,,,1
+,,,
+88_noPresento,Hisao,"""¿Por qué? ¿Tengo que hacerlo?""",1
+89,Mutou,"""Claro que no. Por eso es que pregunto.""",1
+90,Hisao,"""Cierto""",1
+91_noPresento,,"Después del aplauso, hay un breve silencio que nadie parece querer ser el responsable de romper.",1
+92,,"El maestro pronto se da cuenta de que probablemente debería decir algo. Empieza con un ruido indescifrable, se calla al ir perdiendo su ímpetu, y entonces comienza a presentarme.",1
+93,,Nadie parece muy interesado.,1
+94,,Tal vez debería de haber dicho sí a eso de presentarme yo mismo.,1
+95,,"Quizás comprendiendo que en verdad no sabe nada de mí, acaba diciendo mal mi nombre una vez más, y me pide escribirlo en el pizarrón.",1
+96,,"Lo hago, y me vuelvo para ver a la clase, sintiéndome raro.",1
+,,,
+98,Mutou,"""Haremos algo de trabajo en grupo este día, así que eso te dará una oportunidad de hablar con todos. ¿Estás de acuerdo con eso?""",1
+99,Hisao,"""Sí, por mí está bien.""",1
+100,Mutou,"""Eso es bueno, puedes trabajar con Hakamichi. Es la representante del grupo.""",1
+101,Mutou,"""Ella puede explicarte cualquier cosa con la que puedas tener problemas. Y quién mejor para hacerlo, ¿no?""",1
+102_mGone,,,1
+103,,¿Cómo podría saberlo?,1
+104,,El maestro reparte las tareas de hoy y anuncia que trabajaremos en grupos de tres.,1
+105,,Me llega de golpe que no sé quién es Hakamichi. Lento. El maestro parece captar mi expresión de impotencia.,1
+106,Mutou,"""Oh, cierto. Hakamichi está justo ahí, Shizune Hakamichi.""",1
+107_miIn,,,1
+108,,"Al llamar su nombre, la linda chica de apariencia efervescente con brillante pelo rosado y ojos dorados me hace un gesto con su mano. Tomo asiento junto a ella, al lado de la ventana.",1
+109,Hisao,"""Hola, supongo que tú eres Hakamichi, ¿no? Es un gusto conocerte.""",1
+110_mShizune,C_Misha-Shizune,"""¡Jajaja~!""",1
+111,,¿Qué? Su risa me toma por sorpresa.,1
+112,C_Misha-Shizune,"""¡También es un gusto conocerte!<wait-1> ¡Pero~!""",1
+113,C_Misha-Shizunent_SPACE_Misha,"""<line_1-run_230>¡También es un gusto conocerte! ¡Pero~!, yo no soy Hakamichi, ¡soy Misha! Ella es Hakamichi. ¡Shicchan~!""",1
+114,,,1
+115_shIn,,,1
+116,,"Riendo, Misha apunta a la chica a su lado, a quien vi usando lenguaje de señas antes. Parece que ha estado mirándome todo este tiempo. Ella asiente con la cabeza una vez con indiferencia para mostrar que reconoce mi presencia… pero solo apenas.",1
+117,,"Ella tiene cabello corto pero cuidadosamente cepillado, un par de anteojos en forma de óvalo se balancean en la punta de una delicada nariz, y ojos azul oscuro que parecen alternar cada pocos segundos entre una mirada analítica y algo aburrida.",1
+118,Hisao,"""Gusto en conocerte.""",1
+119,Shizune,"""…""",1
+120_mT,,,1
+121_mT2,,,1
+122_mT3,,,1
+123,,"De inmediato voltea a ver a Misha, quien sonríe y hace un gesto rápido con las manos.",1
+124_sT1,,,1
+125_sT2,,,1
+126,,Hakamichi asiente y hace algunos gestos propios.,1
+127,,"Empiezo a preguntarme si el maestro estaba jugando conmigo, diciendo algo como ""podrás hablar con la gente"" y ""quién mejor para explicarte las cosas"".",1
+128,Misha,"""Puedo ver que estás un poco confundido, ¿cierto?, ¿cierto? Pero, ¡entiendo por qué pensarías que yo soy Shicchan!""",1
+129,Misha,"""Shicchan es sorda, así que soy yo quien traduce las cosas de un lado a otro para ella.""",1
+130,Misha,"""¡Soy como una intérprete~! ¡Ella dice que es un gusto conocerte, también!""",1
+131,Shizune,"""…""",1
+132,Misha,"""Eres el nuevo estudiante, ¿no? Bueno, Shicchan, ¡claro que lo es! Si no lo fuera, habría estado ahí parado sin razón alguna, ¿cierto? ¡Cierto~!""",1
+,,,
+133_chckPresento,,,1
+134_siPresento,Misha,"""Se ve como una persona muy interesante, ¿no es así~?""",1
+,,,
+135_noPresento,,"Misha me ve con una expresión rara, después continúa.",1
+136,Misha,"""No sabemos mucho de él, pero tal vez nos enteraremos más tarde.""",1
+137,,"Tal vez debería haberme presentado yo mismo después de todo. Cualquier cosa hubiera dado una mejor primera impresión que el parloteo del maestro, mientras se equivocaba con mi nombre.",1
+,,,
+138_normal,Misha,"""Sabíamos que iba a haber un nuevo estudiante, pero no sabíamos que estarías aquí este día. ¡Tan pronto! Hicchan, ¿verdad?""",1
+139,,¿Hicchan… ?,1
+140,Misha,"""¡Síp~! Te queda, ¿no?""",1
+141,,¿Lo dije en voz alta? Es un tanto sorprendente. Nunca me ha gustado ese apodo.,1
+142,Hisao,"""En verdad no veo cómo.""",1
+143,Misha,"""¡Sí queda~! ¡Eres justo como te imaginé!""",1
+144,Shizune,"""...""",1
+145,Misha,"""¡Jajajaja~! ¡Sí, te ves justo como un Hicchan!""",1
+146,Hisao,"""Me pregunto por qué es que todos parecen pensar así…""",1
+147,Shizune,"""...""",1
+148,,"Hakamichi golpetea sus dedos sobre el escritorio para llamar la atención de Misha. Ambas gesticulan de un lado a otro entre ellas con emoción, sus manos demasiado rápidas para poderlas seguir.",1
+149,,,1
+150,,,1
+151,,,1
+152,,Misha luce un poco abrumada.,1
+153,Misha,"""¡Ajaja~! Ehh, ¡perdón por eso!""",1
+154,Misha,"""Shicchan quiere que sepas que ella es la representante del grupo, así que si hay algo que necesites saber, puedes sentirte con la libertad de preguntarle.""",1
+155,Shizune,"""...""",1
+156,Misha,"""¿Te ha gustado la escuela hasta ahora? Podemos mostrarte un poco los alrededores si no has tenido tiempo de andar por ahí y… <Sprite1--26_128x128--27_switch--28_sprites/misha/misha_perky_base_arm.png--29_-42_-59--30_0.5>¿familiarizarte? <Sprite1--8_32x32--9_switch--10_sprites/misha/face/misha_perky_confused.png--11_-77_30--12_0.5>¡Con el lugar!<Sprite1--8_32x32--9_switch--10_sprites/misha/face/misha_perky_smile.png--11_-77_30--12_0.5>""",1
+157,,"Misha tropieza un poco con la palabra complicada, haciéndola sobresalir en su traducción, de otro modo, fluida.",1
+158,Hisao,"""Gracias, eso es muy amable de su parte. Seguro, prácticamente vine directo a clase hoy.""",1
+159,Shizune,"""...""",1
+160,Misha,"""¡Jajaja~!""",1
+161,Misha,"""¡Eso no está bien! Siempre deberías tratar de aprender lo más que puedas acerca del lugar adonde vas antes de ir allá. ¡No solo con la escuela~!""",1
+162,Misha,"""¡Siempre! ¡Incluso si es un viaje a la tienda! ¿En serio, Shicchan? ¡Jajaja~!""",1
+163,,"¿Aprender acerca de adónde vas? Creo que no me molesté en hacerlo, o simplemente no me importaba lo suficiente como para hacer eso.",1
+164,,"No esperaba esto con ansias, aunque yo mismo me comprometí a ir con la corriente sin muchas ganas, pero en fin.",1
+165,,"No digo nada, y Misha dice algo en señas que termina con ella encogiéndose de hombros. ¿Qué fue eso? Parece que era sobre mí.",1
+166,,"Siento que quiero desplomarme sobre el asiento. Ambas sonríen, pero ese encogimiento de hombros me golpeó de forma inesperadamente profunda.",1
+167,Misha,"""Te ves triste, ¿estás bien?""",1
+168,Shizune,"""…""",1
+169,Misha,"""¡Por favor, no lo tomes a mal~! ¡Odio cuando las personas tienen miedo de hacer preguntas! ¡Así es como la gente aprende, preguntando~!""",1
+170,Misha,"""Pedir ayuda es perfectamente normal, ¡tanto como necesitar ayuda! ¡Deja de verte como si acabaras de reprobar un examen!""",1
+171,Misha,"""¡Guajajaja~!""",1
+172,Hisao,"""De acuerdo.""",1
+173,Shizune,"""…""",1
+174,Misha,"""Ah, y otra cosa, ¡no tienes que llamar a Shicchan de forma tan formal, como “Hakamichi” o “representante del grupo” todo el tiempo! ¡Solo llámala Shicchan~!""",1
+175,Shizune,"""…""",1
+176,Misha,"""¡Ajaja~! Bueno, puede que eso sea demasiado casual. Tal vez “Shizune” sería más apropiado.""",1
+177,Shizune,"""…""",1
+178,Misha,"""¡Síp, síp~! ¡'Shizune' está bien!""",1
+179,Hisao,"""Je. Está bien, eso sería bastante más fácil para mí.""",1
+180,,"Me siento mucho más tranquilo. Ambas parecen amigables, así que me siento como un idiota por haber estado tan preocupado antes. Especialmente por Shizune, quien supuse sería toda seriedad y trabajo.",1
+181,,"Bueno, ella todavía me da esa idea. Solo que un poco menos, supongo.",1
+182,Shizune,"""¡…!""",1
+183,Misha,"""¿Eh? ¡Oh, cierto, no hemos ni tocado el trabajo! Deberíamos empezar ahora, o Shicchan se enojará.""",1
+184,Hisao,"""La tarea también es un poco larga, así que deberíamos empezar ahora, si queremos terminar antes del final de la clase.""",1
+185,Misha,"""¡Guajaja~! ¡Eso también!""",1
+186,Shizune,"""…""",1
+187,,Shizune nos mira con dureza e impaciencia. No necesito saber lenguaje de señas para entender eso.,1
+188,Hisao,"""Está bien, está bien. Entiendo el mensaje.""",1
+189,Shizune,"""…""",1
+190,Misha,"""Después de clase, podemos pasear por los jardines juntos. ¡Hoy es un bonito día! ¿De acuerdo~?""",1
+191,,"A decir verdad la tarea es muy difícil de realizar, combinando aspectos de ser tanto complicada como innecesariamente larga.",1
+192_paneoIn,,,
+193_limpieza,,,
+194_paneoOut,,,
+195,,"Aun así, la terminamos unos minutos antes que el resto del salón, a pesar de nuestro inicio tardío. Shizune y Misha son realmente capaces.",1
+196,,"Sin embargo, son bastante diferentes. La representante del grupo es tan tranquila y profesional como se ve, mientras que Misha es mucho más juguetona y candorosa. Sin mencionar que se distrae con facilidad.",1
+197,,"Siendo honesto, ellas hicieron la mayor parte del trabajo. Me siento culpable por ello.",1
+198_sfx,,"La torre del reloj suena, señalando el final del período. Tiempo para el almuerzo.",1
+199,,"Sin saber qué otra cosa hacer, sigo a Misha, quien me llama con señas para que vaya al corredor y baje las escaleras.",1
+200,,"Descendemos aún más abajo del vestíbulo donde me encontré con Mutou, hasta la planta baja.",1
+201,,"Al igual que todo en esta escuela, la cafetería parece demasiado espaciosa y extrañamente moderna, contrastando con el exterior clásico.",1
+202,,"Sus grandes ventanales dan al patio, hacia el portón principal.",1
+203,Misha,"""¡Es la cafetería~!""",1
+204,,"Su entusiasta afirmación sobre lo obvio hace que la gente alrededor voltee a vernos, pero eso no parece importarle a Misha, así que procedemos a la fila.",1
+205,,"Hay una lista considerablemente larga de opciones en el menú, lo que parece genial, hasta que me doy cuenta de que muchas de ellas son para dar cabida a aquellos estudiantes que necesitan dietas especiales.",1
+206,,"Pero qué lindo. Hasta casi se siente como si estuviera de vuelta en el hospital, comiendo porciones medidas con precisión científica para cumplir las necesidades de los pacientes.",1
+207,,"Escojo algo al azar y sigo a Shizune a una mesa, sentándome frente a ella.",1
+208,,"Mientras indiferentemente mordisqueo la comida que preferiría no comer, Misha me da un codazo en el costado para llamar mi atención y apunta a Shizune.",1
+209,Shizune,"""...""",1
+210,,"No entiendo las señas, así que el significado me elude.",1
+211,,¿Tal vez mirar a la persona con quien “hablas” es correcto y educado?,1
+212,Misha,"""¿Quieres saber algo?""",1
+213,Hisao,"""¿Qué?""",1
+214,Misha,"""¡Sobre cualquier cosa! ¡Somos tus guías, así que deberías preguntar si hay algo~!""",1
+215_questMisha,Hisao,"""Hmm, me pregunto…""",1
+,,,
+216_biblio,Hisao,"""Oh, sí. ¿Hay una biblioteca en la escuela? Últimamente me ha dado por leer mucho, así que me gustaría ir a verla.""",1
+217,,"Misha hace el tipo de gesto que deja claro que ella no considera a la lectura como un pasatiempo sano, pero entonces recupera su sonrisa de nuevo.",1
+218,Misha,"""¡Sí la hay~! ¡Está en el segundo piso, te la podemos mostrar alguna vez!""",1
+219,Hisao,"""Gracias.""",1
+220,,Regreso a mi comida mientras las chicas hablan entre ellas.,1
+,,,
+221_nada,Hisao,"""No se me ocurre nada, en verdad.""",1
+222,Misha,"""¡Ooh! Eso significa que hemos sido buenas guías, ¿o no?, ¿o no~?""",1
+223,,…,1
+224,Hisao,"""Eeh… si tú lo dices.""",1
+225,,"Misha definitivamente sonríe con energía, y también lo hace Shizune después de una rápida traducción.",1
+226,,"Sacudo la cabeza a causa de su entusiasmo un tanto exagerado, y cambio mi atención hacia la comida.",1
+,,,
+227_sordera,,"Shizune me intriga, y siento que quiero preguntar algo acerca de ella.",1
+228,,"Pero en realidad no puedo preguntar sobre algo tan personal, ¿o sí?",1
+229,,Hmm…,1
+230,,"No se me ocurre otra cosa más sobre qué preguntar, así que simplemente me concentro en mi comida mientras las chicas hablan entre ellas.",1
+,,,
+231_normal,,"Misha y Shizune gesticulan de un lado a otro entre ellas muy animadamente, arrojándome miradas, pero Misha se abstiene de traducir.",1
+232,,Quizás estén hablando de cosas secretas de chicas o algo así.,1
+233,,…,1
+234,,Rápidamente me percato de que una conversación en señas no es suficiente para llenar un silencio.,1
+235_paneoIn,,,
+236_limpieza,,,
+237_paneoOut,,,
+238,,"Llegamos temprano al salón de clases, pero no somos los primeros.",1
+239,,Esa chica de cabello oscuro que vi antes se encuentra desplomada sobre su escritorio en la última fila.,1
+240,,,
+241,,,
+242,,,
+243,,Ella salta un poco cuando Misha entra estrepitosamente al salón con la elegancia de un rinoceronte.,1
+244,,"Se encoge más dentro de su asiento. Puedo sentir su tensión desde acá, como si lentamente se estuviera convirtiendo en piedra solo por nuestra presencia.",1
+245,,"Misha y Shizune, o bien no lo notan o no les importa, ya que caminan directamente delante de ella hacia sus asientos y comienzan a conversar.",1
+246,,"Me quedo pensando en ella, incluso cuando el salón se llena lentamente con otros estudiantes y finalmente, el maestro.",1
+247,,"Entrar en el ritmo escolar se siente extraño; es como si mi cerebro recordara cómo se hace esto, pero mi cuerpo no.",1
+248,,Hacia el final de la clase empiezo a bostezar y a contar los minutos restantes.,1
+249,,No debería estar así de cansado en mi primer día de clases.,1
+250,,Tal vez sea el largo tiempo pasado en el hospital el que me ha hecho así. Incluso me siento físicamente débil y sin vida.,1
+251_paneoTimeIn,,,
+252_paneoTimeOut,,,
+253,,"En poco tiempo, suena la campanada final.",1
+254,,"La escuela ha terminado por este día, finalmente.",1
+255,,"A mi lado, Misha y Shizune tienen una corta conversación. Después de un momento de deliberación, Misha se vuelve hacia mí.",1
+256,Shizune,"""…""",1
+257,Misha,"""Desafortunadamente no podemos quedarnos y mostrarte el lugar por hoy, Hicchan. Debemos darnos prisa, ya que hay mucho trabajo por hacer.""",1
+258,Shizune,"""…""",1
+259,Misha,"""Encontrarás tu camino por aquí, de eso estoy segura.""",1
+260,Hisao,"""¡Ah, espera! El maestro dijo que debía ver al enfermero. ¿Adónde tengo que ir?""",1
+261,Misha,"""¿En serio? ¡Al menos podemos mostrarte eso~!""",1
+262,Misha,"""Vamos, la enfermería tiene su propio edificio, así que tenemos que salir.""",1
+263,,,
+264,,"Nos unimos al flujo de estudiantes bajando las escaleras y yendo hacia afuera, con las chicas indicando otros salones de niveles avanzados en el mismo corredor que el nuestro.",1
+265_bbIn,,,
+266,,,
+267_bbOut,,,
+268,,"Cuando llegamos al exterior, las chicas se dirigen al edificio más pequeño justo a un lado de la escuela.",1
+269,,"Está construido con el mismo estilo, así que realmente parece ser una parte del edificio principal.",1
+270,Shizune,"""…""",1
+271,Misha,"""Este es el edificio auxiliar. Hay un montón de cosas oficiales e importantes adentro, como la oficina de la Fundación Yamaku y todas las oficinas de enfermería. ¡Incluso tienen una piscina!""",1
+272,Hisao,"""¿Cómo es eso oficial?""",1
+273,Shizune,"""…""",1
+274,Misha,"""¡No seas tonto, Hicchan! Es para terapia física, por supuesto.""",1
+275,Misha,"""De cualquier forma, todas las instalaciones para el personal de enfermería se encuentran también aquí. La oficina del jefe de enfermería está en el primer piso.""",1
+276,Misha,"""Estarás bien de ahora en adelante, ¿cierto~? ¡Nos retiramos entonces! ¡Hasta mañana!""",1
+277,Hisao,"""Sí, gracias. Nos vemos.""",1
+278,,¿Todo un edificio para cosas que realmente no tienen nada que ver con educación?,1
+279,,Supongo que es necesario para un lugar como este.,1
+280,,,
+281,Cratobeta,"""Y bueno, hasta aquí llega esta demo.""",1
+282,Cratobeta,"""Han sido MESES que he tardado en llegar ha este punto, ha sido interesante la verdad...""",1
+283,Cratobeta,"""Este proyecto comenzó por noviembre 2024, justo como comenté en una publicación: inicié esto en LUA POTION luego intenté hacerlo en c++ directo y ahora estamos aquí... en Unity.""",1
+284,Cratobeta,"""Actualmente creo que se ha logrado un buen avance... Solo quedan dos cosas importantes: el sistema de desbloqueo de galería y la adaptación y corección de TODOS los sprites.""",1
+285,Cratobeta,"""Y eso último será lo más horrible de todo el proyecto por lo tedioso que es.""",1
+286,Cratobeta,"""Pero valdrá la pena, como dije una vez, no voy a abandonar ahora por solo los sprites.""",1
+287,Cratobeta,"""Aparte de eso, quedaría adaptarlo a más idioma, cosa que es posible.""",1
+288,Cratobeta,"""Espero que no te hayas topado con muchos problemas al llegar aquí.""",1
+289,Cratobeta,"""Y antes de seguir, agradecer a los de 'Katawa Shoujo: Re-Engineered'... Por su permiso para usar sus assets en este proyecto.""",1
+290,Cratobeta,"""Y también gracias al subreddit de 'katawashoujo' por ser el espacio donde tuve alcance para el proyecto.""",1
+291,Cratobeta,"""Y también al SuperJueves.""",1
+292,Cratobeta,"""En fin... Si estás aquí, significa que todo ha ido bien y que ciertos 'problemas' son tolerables o no han ocurrido... Por ejemplo.""",1
+293,Cratobeta,"""La música que escuchas ahora 'Red Velvet' el archivo original pesa 2.5mb y Unity lo considera de 10mb, y esos 10mb están actualmente en la memoria de tu 3DS corriendo a tiempo real... Es decir, que podría causar un crasheo si pesa mucho.""",1
+294,Cratobeta,"""Pero si estás aquí, significa que todo ha ido bien.""",1
+295,Cratobeta,"""Bueno, eso sería todo, ahora mismo me tomaré un descanso del proyecto, estos últimos días previos a este lanzamiento me he quemado con el código jajaja... <Sprite1--8_280x140--9_switch--10_sprites/cratobeta/face/Cratobeta_cansado.png--11_0_-58--12_0.5> ah...""",1
+296,Cratobeta,"""Si has encontrado algún error, escríbeme al DM en reddit 'Cratobeta_18', estaré al tanto para tomar nota y corregir esos errores y aclarar dudas.""",1
+297,Cratobeta,"""Por otro lado, también estaré al tanto del subreddit de este proyecto 'KawataShoujo3DSPort' por si acaso.""",1
+298,Cratobeta,"""Y gracias a ti, por probar este port y llegar aquí.""",1
+299,Cratobeta,"""Eso es todo, hasta la próxima y gracias por leer.""",1
+300,,,1
+301,,,1
+302,,,1
+303,,,1
+304,,,1
+305,,,1
+306,,,1
+307,,,1
+308,,,1
+309,,,1
+310,,,1
+311,,,1
+312,,,1
+313,,,1
+314,,,1
+315,,,1
+316,,,1
+317,,,1
+318,,,1
+319,,,1
+320,,,1
+321,,,1
+322,,,1
+323,,,1
+324,,,1
+325,,,1
+326,,,1
+327,,,1
+328,,,1
+329,,,1
+330,,,1
+331,,,1
+332,,,1
+333,,,1
+334,,,1
+335,,,1
+336,,,1
+337,,,1
+338,,,1
+339,,,1
+340,,,1
+341,,,1
+342,,,1
+343,,,1
+344,,,1
+345,,,1
+346,,,1
+347,,,1
+348,,,1
+349,,,1
+350,,,1
+351,,,1
+352,,,

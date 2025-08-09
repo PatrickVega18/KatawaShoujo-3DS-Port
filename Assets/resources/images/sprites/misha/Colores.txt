@@ -1,0 +1,12 @@
+BOCA: #f8e1da
+negro (15) (2 pases)
+BOCA-COMPLEMENTO: #ead4ce
+---------
+Usamos color de boca y luego el negro 2 veces en las comisuras
+---------
+
+
+CEJA: #d38894 (150)
+
+
+NARIZ: negro (15)

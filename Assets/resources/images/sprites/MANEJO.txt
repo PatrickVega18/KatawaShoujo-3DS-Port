@@ -1,0 +1,25 @@
+ASEPRITE:
+Hacer un TRIM al sprite base.
+Aumentar el tamaño en 180%
+Aumentar el lienzo a 2048*2048
+
+PHOTSHOP:
+256x256
+Toda exportación deberá ser "Bicúbica"
+
+ASEPRITE:
+------------
+Subir la boca 1px
+Bajar la ceja 1px
+------------
+TRIM
+Luego redimensionar a 32x32 o 64x64
+=========================
+
+Para los brazos:
+TRIM
+128x128
+
+=========================
+Achicar:
+120x120
