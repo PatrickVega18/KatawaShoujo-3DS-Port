@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2625815834
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bd56fe0032e3872a0022fe8f1b0a27e2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/bgm/Caged_Heart.ogg
+Dependencies: []

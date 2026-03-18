@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1758700024
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7905879f8c308ced1ee36516f9d7e6f9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/bgm/School_Days.ogg
+- Assets/bgm/Ease.ogg
+- Assets/bgm/Red_Velvet.ogg
+- Assets/bgm/Daylight.ogg
+- Assets/bgm/Fripperies.ogg
+- Assets/bgm/The_Student_Council.ogg
+Dependencies: []

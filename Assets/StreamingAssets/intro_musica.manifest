@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4007903013
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 44fd3865b1a251373cd5470788b33d9c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/bgm/Lullaby_of_Open_Eyes.ogg
+- Assets/bgm/Cold_Iron.ogg
+Dependencies: []

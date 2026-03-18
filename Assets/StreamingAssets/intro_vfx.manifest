@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4191804747
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1d971d72a74d5eb250a5dbfffe2e11c3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 36c33a819640bead83b84b1645a12e6d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/vfx/flashback2.png
+- Assets/vfx/flashback1.png
+- Assets/vfx/heart_attack.jpg
+Dependencies: []

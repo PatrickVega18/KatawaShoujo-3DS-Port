@@ -1,0 +1,12 @@
+﻿Id,Evento,Auto,Forzado,Tiempo,Tamano,Coordenadas,Lower,Lower_Tamano,Lower_Coordenadas,Efecto,Efecto_Accion,Efecto_Volumen,Efecto_Esperar
+2_centerText,centerText,,,,,,,,,,,,
+3_bbOut,fadeOut-blackBox,1,0,3,400x240,0 0,fadeOut-blackBox,400x240,0 0,,,,
+4_bbsIn,bbsIn,,,,,,,,,,,,
+46_bbsOut,bbsOut,,,,,,,,,,,,
+58_lWbIn,back-fadeIn-WhiteBox,1,0,3,400x240,0 0,back-fadeIn-WhiteBox,400x240,0 0,,,,
+59_medicalText,medicalText,,,24,512x240,,,,,,,,
+66_bbIn,fadeIn-blackBox,1,0,1,400x240,0 0,fadeIn-blackBox,400x240,0 0,,,,
+67_bWbOut,back-fadeOut-WhiteBox,1,0,0,400x240,0 0,back-fadeOut-WhiteBox,400x240,0 0,,,,
+68_medicalTextOut,medicalTextOut,1,0,0,,,,,,,,,
+69_bbOut,fadeOut-blackBox,1,0,1,400x240,0 0,fadeOut-blackBox,400x240,0 0,,,,
+110_wbIn,fadeIn-whiteBox,1,0,3,400x240,0 0,fadeIn-whiteBox,,,,,,

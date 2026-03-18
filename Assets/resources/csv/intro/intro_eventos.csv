@@ -1,0 +1,35 @@
+﻿Id,Evento,Auto,Forzado,Tiempo,Tamano,Coordenadas,Lower,Lower_Tamano,Lower_Coordenadas,Efecto,Efecto_Accion,Efecto_Volumen,Efecto_Esperar
+intro_1,fadeOut-blackBox,1,0,4,400x240,0 0,fadeOut-blackBox,400x240,0 0,,,,
+2_inter,showSnow,1,0,,,,,,,,,,
+12_crujido,sfx,,,,,,,,,rustling,play,1,0
+19_wbIn,fadeIn-whiteBox,1,0,0.25,400x240,0 0,fadeIn-whiteBox,400x240,0 0,whiteout,play,1,0
+20_fpCambio,auto,,,,,,,,,,,,
+21_wbOut,fadeOut-whiteBox,1,0,3,400x240,0 0,fadeOut-whiteBox,400x240,0 0,,,,
+27_wbIn,fadeIn-whiteBox,1,0,0.25,400x240,0 0,fadeIn-whiteBox,400x240,0 0,whiteout,play,1,0
+28_fpCambio,auto,,,,,,,,,,,,
+29_wbOut,fadeOut-whiteBox,1,0,3,400x240,0 0,fadeOut-whiteBox,400x240,0 0,,,,
+30_hAttk,heartAttack-0.3,1,0,0.25-0.5,450x240,0 0,,,,heart_single_slow,play,1,1
+31_hAttk,heartAttack-0.3,1,0,0.25-0.5,450x240,0 0,,,,heart_single_slow,play,1,1
+33_wbIn,fadeIn-whiteBox,1,0,0.25,400x240,0 0,fadeIn-whiteBox,400x240,0 0,whiteout,play,1,0
+34_fpCambio,auto,,,,,,,,,,,,
+35_wbOut,fadeOut-whiteBox,1,0,3,400x240,0 0,fadeOut-whiteBox,400x240,0 0,,,,
+42_wbIn,fadeIn-whiteBox,1,0,0.25,400x240,0 0,fadeIn-whiteBox,400x240,0 0,whiteout,play,1,0
+43_fpCambio,auto,,,,,,,,,,,,
+44_wbOut,fadeOut-whiteBox,1,0,3,400x240,0 0,fadeOut-whiteBox,400x240,0 0,,,,
+47_hAttk,heartAttack-0.3,1,0,0.25-0.5,450x240,0 0,,,,heart_single_slow,play,1,1
+49_hAttk,heartAttack-0.3,1,0,0.25-0.5,450x240,0 0,,,,heart_single_slow,play,1,1
+50_hAttkF,heartAttack-0.3,1,0,0.15-0.15,450x240,0 0,,,,heart_single_fast,play,1,1
+57_hAttkF,heartAttack-0.3,1,0,0.15-0.15,450x240,0 0,,,,heart_single_fast,play,1,1
+59_hAttkF,heartAttack-0.3,1,0,0.15-0.15,450x240,0 0,,,,heart_single_fast,play,1,1
+60_hAttk,heartAttack-0.3,1,0,0.25-0.5,450x240,0 0,,,,heart_single_slow,play,1,0
+61_hAttkF,heartAttack-0.3,1,0,0.15-0.15,450x240,0 0,,,,heart_single_fast,play,1,1
+62_hStop,heartStop-0.3,1,0,0.15,450x240,0 0,,,,heart_stop,play,1,1
+65_flashback,flashback,,,5,,,,,,,,,
+65_inter,auto,,,0.5,,,back-fadeIn-blackBox,400x240,0 0,,,,
+66_bbsIn,bbsIn,,,,,,,,,,,,
+69_allBlack,fadeIn-blackBox,1,0,3,400x240,0 0,fadeIn-blackBox,400x240,0 0,,,,
+70_clearAll,clearAll,1,0,0,,,,,,,,,
+71_bbsOut,bbsOut,,,,,,,,,,,,
+72_hideSnow,hideSnow,1,0,,,,,,,,,,
+72_inter_bbOut,,1,0,0,,,back-fadeOut-blackBox,400x240,0 0,,,,
+73_changeEscene,,,,,,,,,,,,,

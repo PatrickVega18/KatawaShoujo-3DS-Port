@@ -1,0 +1,42 @@
+﻿Id,Evento,Auto,Forzado,Tiempo,Tamano,Coordenadas,Lower,Lower_Tamano,Lower_Coordenadas,Efecto,Efecto_Accion,Efecto_Volumen,Efecto_Esperar
+2_wbOut,fadeOut-whiteBox,1,0,3,400x240,0 0,fadeOut-whiteBox,400x240,0 0,,,,
+50_sfx,sfx,,,,,,,,,dooropen,play,1,0
+54_bbIn,back-fadeIn-blackBox,1,0,0.5,400x240,0 0,back-fadeIn-blackBox,400x240,0 0,,,,
+55_fpCambio,auto,,,,,,,,,,,,
+56_bbOut,back-fadeOut-blackBox,1,0,0.5,400x240,0 0,back-fadeOut-blackBox,400x240,0 0,,,,
+,,,,,,,,,,,,,
+84_bbIn,back-fadeIn-blackBox,1,0,0.5,400x240,0 0,back-fadeIn-blackBox,400x240,0 0,,,,
+85_fpCambio,auto,,,,,,,,,,,,
+86_bbOut,back-fadeOut-blackBox,1,0,0.5,400x240,0 0,back-fadeOut-blackBox,400x240,0 0,,,,
+110_auto,auto,,,,,,,,,,,,
+115,auto,,,,,,,,,,,,
+116,auto,,,,,,,,,,,,
+117,auto,,,,,,,,,,,,
+119,auto,,,,,,,,,,,,
+120,auto,,,,,,,,,,,,
+144,auto,,,,,,,,,,,,
+145,auto,,,,,,,,,,,,
+146,auto,,,,,,,,,,,,
+187_paneoIn,paneoIn,1,0,1,,,back-fadeIn-blackBox,400x240,0 0,time,play,1,0
+188_limpieza,auto,,,,,,,,,,,,
+189_paneoOut,paneoOut,1,0,1,,,back-fadeOut-blackBox,400x240,0 0,,,,
+190_saveUnlocker,saveUnlocker,1,0,,,,,,,,,,
+194_sfx,sfx,,,,,,,,,carillon,play,1,0
+197_sfxLoop,sfx,,,,,,,,,crowd_indoors,loop,1,0
+,,,,,,,,,,,,,
+230_sfxStop,sfx,,,3,,,,,,,stop,,
+231_paneoIn,paneoIn,1,0,1,,,back-fadeIn-blackBox,400x240,0 0,time,play,1,0
+232_cambio,auto,,,,,,,,,,,,
+233_paneoOut,paneoOut,1,0,1,,,back-fadeOut-blackBox,400x240,0 0,,,,
+234_saveUnlocker,saveUnlocker,1,0,,,,,,,,,,
+237,auto,,,,,,,,,,,,
+246_paneoIn,paneoIn,1,0,1,,,back-fadeIn-blackBox,400x240,0 0,time,play,1,0
+247_paneoOut,paneoOut,1,0,1,,,back-fadeOut-blackBox,400x240,0 0,,,,
+248_saveUnlocker,saveUnlocker,,,,,,,,,,,,
+249_sfx,sfx,,,,,,,,,carillon,play,1,0
+259,auto,,,,,,,,,,,,
+261_bbIn,back-fadeIn-blackBox,1,0,0.5,400x240,0 0,back-fadeIn-blackBox,400x240,0 0,,,,
+262_fpCambio,auto,,,,,,,,,,,,
+263_bbOut,back-fadeOut-blackBox,1,0,0.5,400x240,0 0,back-fadeOut-blackBox,400x240,0 0,,,,
+276_bbIn,,1,0,1,,,back-fadeIn-blackBox,400x240,0 0,,,,
+300_bbIn,fadeIn-blackBox,1,0,3,400x240,0 0,fadeIn-blackBox,400x240,0 0,,,,

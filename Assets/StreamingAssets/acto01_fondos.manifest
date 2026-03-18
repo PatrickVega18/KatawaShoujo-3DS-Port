@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3243697977
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6ab0a5d798d53d3fa27ca3f5ed50bdf6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 36c33a819640bead83b84b1645a12e6d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/bgs/school_hallway3.jpg
+- Assets/bgs/school_courtyard.jpg
+- Assets/bgs/school_scienceroom.jpg
+- Assets/bgs/school_cafeteria.jpg
+- Assets/bgs/school_staircase2.jpg
+- Assets/bgs/fondoCrato.jpg
+- Assets/bgs/school_lobby.jpg
+- Assets/bgs/school_gate.jpg
+Dependencies: []

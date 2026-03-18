@@ -1,0 +1,77 @@
+﻿ID,Nombre,Texto,Velocidad
+intro_1,,,
+2,,A light breeze causes the naked branches overhead to rattle like wooden windchimes.,0.025
+3,,"This is a popular retreat for couples in the summer. The deciduous trees provide a beautiful green canopy, far out of sight of teachers and fellow students.",0.025
+4,,"But now, in late winter, it feels like I'm standing under a pile of kindling.",0.025
+5,,I breathe into my cupped hands and rub them together furiously to prevent them from numbing in this cold.,0.025
+6,Hisao,"""Just how long am I expected to wait out here, anyway? I'm sure the note said 4:00 PM.""",0.025
+7,,Ah yes… the note… slipped between the pages of my math book while I wasn't looking.,0.025
+8,,"As far as clichés go, I'm more a fan of the letter-in-the-locker, but at least this way shows a bit of initiative.",0.025
+9,,"As I ponder the meaning of the note, the snowfall gradually thickens.",0.025
+10,,The snowflakes silently falling from the white-painted sky are the only sign of time passing in this stagnant world.,0.025
+11,,Their slow descent upon the frozen forest makes it seem like time has slowed to a crawl.,0.025
+12_crujido,,"The rustling of dry snow underfoot startles me, interrupting the quiet mood. Someone is
+approaching me from behind.",0.025
+13,???,"""Hi… Hisao? You came?""",0.025
+14,,"A hesitating, barely audible question.",0.025
+15,,"However, I recognize the owner of that dainty voice instantly.",0.025
+16,,I feel my heart skip a beat.,0.025
+17,,"It's a voice I've listened to hundreds of times, but never as more than an eavesdropper to a conversation.",0.025
+18,,"I turn to face this voice, the voice of my dreams, and my heart begins to race…",0.025
+19_wbIn,,,0.025
+20_fpCambio,,,0.025
+21_wbOut,,,0.025
+22,Hisao,"""Iwanako? I got a note telling me to wait here… it was yours?""",0.025
+23,,Dammit. I spent all afternoon trying to come up with a good line and that was the result.,0.025
+24,,Pathetic.,0.025
+25,Iwanako,"""Ahmm… yes. I asked a friend to give you that note… I'm so glad you got it.""",0.025
+26,,"A shy, joyous smile that makes me so tense I couldn't move a single muscle even if I tried.",0.025
+27_wbIn,,,
+28_fpCambio,,,
+29_wbOut,,,
+30_hAttk,,,
+31_hAttk,,,
+32,,"My heart is pounding now, as if it were trying to burst out from my chest and claim this girl for itself.",0.025
+33_wbIn,,,
+34_fpCambio,,,
+35_wbOut,,,
+36,Hisao,"""So… ah… here we are. Out in the cold…""",0.025
+37,,"Once again, the wind stirs up the branches. The cacophonous noise is music to my ears.",0.025
+38,,Iwanako flinches ever so softly against the gust of wind.,0.025
+39,,"As it passes, she rights herself, as if supported by some new confidence.",0.025
+40,,"Her eyes lock with mine and she lazily twirls her
+long, dark hair around her finger.",0.025
+41,,"All the while, the anxious beating of my heart grows louder.",0.025
+42_wbIn,,,0.025
+43_fpCambio,,,0.025
+44_wbOut,,,0.025
+45,,My throat is tight; I doubt I could even force a word out if I tried.,0.025
+46,Iwanako,"""You see…""",0.025
+47_hAttk,,,
+48,Iwanako,"""…I wanted to know…""",0.025
+49_hAttk,,,
+50_hAttkF,,,
+51,Iwanako,"""… if you'd go out with me…""",0.025
+52,,"I stand there, motionless, save for my pounding heart.",0.025
+53,,"I want to say something in reply, but my vocal cords feel like they've been stretched beyond the breaking point.",0.025
+54,Iwanako,"""… Hisao?""",0.025
+55,,"I reach up to try to massage my throat, but this only sends spikes of blinding pain along my arms.",0.025
+56,Iwanako,"""Hisao?!""",0.025
+57_hAttkF,,,
+58,,"My whole body freezes, save for my eyes, which shoot open in terror.",0.025
+59_hAttkF,,,
+60_hAttk,,,
+61_hAttkF,,,
+62_hStop,,,
+63,Iwanako,"""HISAO!""",0.025
+64,,"The beating in my chest suddenly stops, and I go weak at the knees.",0.025
+65_flashback,,,
+66_bbsIn,,,
+67,bbs1-line1_39-line2_23,"The world around me - the canopy of bare branches, the dull winter
+sky, Iwanako running towards me - all these fade to black.",0.025
+68,bbs1-line3_-9-line4_-25-line5_-41,"The last things I remember before slipping away are the sounds of
+Iwanako screaming for help and the incessant clatter of the
+branches above…",0.025
+69_allBlack,,,
+,,,
+,,,

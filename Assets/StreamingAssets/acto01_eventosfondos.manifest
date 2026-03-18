@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1534893314
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a1fea6dd93696dfc6f9c7032abe2a51c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 36c33a819640bead83b84b1645a12e6d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/events/hisao_class.jpg
+Dependencies: []

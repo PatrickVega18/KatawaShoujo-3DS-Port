@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1450680648
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 44ff2e6948d34ed0a60b0147e37d0b1a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/sfx/crowd_indoors.ogg
+- Assets/sfx/time.ogg
+- Assets/sfx/dooropen.ogg
+- Assets/sfx/carillon.ogg
+Dependencies: []

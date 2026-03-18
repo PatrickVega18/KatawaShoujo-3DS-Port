@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2598465826
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d9803743ac1fffc1b84020495f4a4e6c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/sfx/heart_single_slow.ogg
+- Assets/sfx/heart_single_fast.ogg
+- Assets/sfx/whiteout.ogg
+- Assets/sfx/rustling.ogg
+- Assets/sfx/heart_stop.ogg
+Dependencies: []

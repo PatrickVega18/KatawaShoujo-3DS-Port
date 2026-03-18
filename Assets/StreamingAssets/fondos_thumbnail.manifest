@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3435993863
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 635c48712f52b128aedc6bad07743249
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 36c33a819640bead83b84b1645a12e6d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/bgs_thumbnail/school_cafeteria.jpg
+- Assets/bgs_thumbnail/school_hallway3.jpg
+- Assets/bgs_thumbnail/intro-iwanako.jpg
+- Assets/bgs_thumbnail/school_gate.jpg
+- Assets/bgs_thumbnail/hosp_room.jpg
+- Assets/bgs_thumbnail/hisao_class.jpg
+- Assets/bgs_thumbnail/school_staircase2.jpg
+- Assets/bgs_thumbnail/school_lobby.jpg
+- Assets/bgs_thumbnail/snowywoods.jpg
+- Assets/bgs_thumbnail/fondoCrato.jpg
+- Assets/bgs_thumbnail/school_scienceroom.jpg
+- Assets/bgs_thumbnail/school_courtyard.jpg
+Dependencies: []

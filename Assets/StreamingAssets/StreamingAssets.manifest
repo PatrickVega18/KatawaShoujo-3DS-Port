@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 4213762864
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: intro_musica
+      Dependencies: {}
+    Info_1:
+      Name: intro_sfx
+      Dependencies: {}
+    Info_2:
+      Name: intro_eventosfondos
+      Dependencies: {}
+    Info_3:
+      Name: fondos_thumbnail
+      Dependencies: {}
+    Info_4:
+      Name: intro_vfx
+      Dependencies: {}
+    Info_5:
+      Name: intro_fondos
+      Dependencies: {}
+    Info_6:
+      Name: doctor_fondos
+      Dependencies: {}
+    Info_7:
+      Name: doctor_musica
+      Dependencies: {}
+    Info_8:
+      Name: doctor_vfx
+      Dependencies: {}
+    Info_9:
+      Name: acto01_fondos
+      Dependencies: {}
+    Info_10:
+      Name: acto01_sfx
+      Dependencies: {}
+    Info_11:
+      Name: acto01_vfx
+      Dependencies: {}
+    Info_12:
+      Name: acto01_musica
+      Dependencies: {}
+    Info_13:
+      Name: acto01_sprites
+      Dependencies: {}
+    Info_14:
+      Name: acto01_eventosfondos
+      Dependencies: {}

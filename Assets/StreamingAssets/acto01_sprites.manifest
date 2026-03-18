@@ -1,0 +1,103 @@
+ManifestFileVersion: 0
+CRC: 2148650990
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 350a918a7763eee514c984db40066c8a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 36c33a819640bead83b84b1645a12e6d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/sprites/mutou/face/muto_basic_irritated.png
+- Assets/sprites/shizune/shizu_base_behind_head.png
+- Assets/sprites/shizune/face/shizu_base_behind_blank.png
+- Assets/sprites/misha/face/misha_perky_smile.png
+- Assets/sprites/shizune/shizu_base_adjust_head.png
+- Assets/sprites/misha/face/misha_arms_grin.png
+- Assets/sprites/shizune/shizu_base_adjust_arms.png
+- Assets/sprites/shizune/face/shizu_base_behind_smile.png
+- Assets/sprites/mutou/face/mutou_basic_normal.png
+- Assets/sprites/hanako/face/hanako_basic_normal.png
+- Assets/sprites/hanako/face/hanako_def_worry.png
+- Assets/sprites/shizune/shizu_base_cross.png
+- Assets/sprites/shizune/face/shizu_base_normal_angry.png
+- Assets/sprites/shizune/face/shizu_base_adjust_smug.png
+- Assets/sprites/misha/misha_arms_base_head.png
+- Assets/sprites/shizune/face/shizu_base_adjust_frown.png
+- Assets/sprites/shizune/shizu_base_behind_arms.png
+- Assets/sprites/hanako/hanako_def_base_arm.png
+- Assets/sprites/hanako/face/hanako_emb_timid.png
+- Assets/sprites/hanako/face/hanako_emb_smile.png
+- Assets/sprites/shizune/face/shizu_base_behind_frustrated.png
+- Assets/sprites/shizune/face/shizu_base_behind_sad.png
+- Assets/sprites/misha/misha_perky_sign_arm.png
+- Assets/sprites/mutou/mutou_basic.png
+- Assets/sprites/shizune/face/shizu_base_normal_happy.png
+- Assets/sprites/cratobeta/cratobeta_base.png
+- Assets/sprites/cratobeta/face/Cratobeta_cansado.png
+- Assets/sprites/misha/face/misha_perky_sad.png
+- Assets/sprites/misha/face/misha_arms_smile.png
+- Assets/sprites/hanako/hanako_def_base.png
+- Assets/sprites/hanako/face/hanako_basic_cover_smile.png
+- Assets/sprites/mutou/face/mutou_basic_smile.png
+- Assets/sprites/misha/face/misha_arms_laugh.png
+- Assets/sprites/shizune/face/shizu_base_cross_wut.png
+- Assets/sprites/hanako/face/hanako_emb_emb.png
+- Assets/sprites/cratobeta/cosa1.png
+- Assets/sprites/shizune/face/shizu_base_cross_angry.png
+- Assets/sprites/hanako/face/hanako_basic-cover_bashful.png
+- Assets/sprites/cratobeta/face/cratobeta_talk1.png
+- Assets/sprites/hanako/hanako_basic_arm_cover.png
+- Assets/sprites/cratobeta/cosa2.png
+- Assets/sprites/misha/misha_perky_base_arm.png
+- Assets/sprites/hanako/face/hanako_emb_sad.png
+- Assets/sprites/cratobeta/face/cratobeta_talk2.png
+- Assets/sprites/shizune/face/shizu_base_adjust_glasses.png
+- Assets/sprites/hanako/face/hanako_emb_downsmile.png
+- Assets/sprites/shizune/shizu_base_normal.png
+- Assets/sprites/shizune/face/shizu_base_normal_normal2.png
+- Assets/sprites/shizune/face/shizu_base_behind_frown.png
+- Assets/sprites/cratobeta/Cratobeta_base_arm_pointing.png
+- Assets/sprites/hanako/face/hanako_emb_blushing.png
+- Assets/sprites/cratobeta/sj.png
+- Assets/sprites/misha/face/misha_arms_frown.png
+- Assets/sprites/misha/misha_arms_base_cross.png
+- Assets/sprites/shizune/face/shizu_base_normal_normal.png
+- Assets/sprites/cratobeta/Cratobeta_base_arm_bay.png
+- Assets/sprites/hanako/hanako_emb_base.png
+- Assets/sprites/hanako/face/hanako_def_shock.png
+- Assets/sprites/misha/misha_arms_base.png
+- Assets/sprites/cratobeta/face/cratobeta_happy.png
+- Assets/sprites/hanako/face/hanako_emb_downtimid.png
+- Assets/sprites/hanako/hanako_basic_arm_normal.png
+- Assets/sprites/misha/face/misha_perky_confused.png
+- Assets/sprites/hanako/hanako_def_base_arm2.png
+- Assets/sprites/hanako/face/hanako_basic_smile.png
+- Assets/sprites/hanako/face/hanako_basic_cover_worry.png
+- Assets/sprites/hanako/face/hanako_basic_worry.png
+- Assets/sprites/hanako/face/hanako_basic-cover_distant.png
+- Assets/sprites/cratobeta/Cratobeta_base_arm_normal.png
+- Assets/sprites/shizune/face/shizu_base_adjust_noglasses.png
+- Assets/sprites/hanako/hanako_basic.png
+- Assets/sprites/hanako/face/hanako_emb_downsad.png
+- Assets/sprites/misha/misha_arms_base_hips.png
+- Assets/sprites/shizune/face/shizu_base_adjust_angry.png
+- Assets/sprites/shizune/face/shizu_base_cross_rage.png
+- Assets/sprites/shizune/face/shizu_base_normal_sparkle.png
+- Assets/sprites/misha/misha_perky_base.png
+- Assets/sprites/hanako/face/hanako_emb_blushtimid.png
+- Assets/sprites/shizune/face/shizu_base_adjust_blush.png
+- Assets/sprites/cratobeta/ksrev1.png
+- Assets/sprites/shizune/face/shizu_base_adjust_happy.png
+- Assets/sprites/shizune/face/shizu_base_normal_frown.png
+- Assets/sprites/shizune/shizu_base.png
+- Assets/sprites/hanako/face/hanako_def_strain.png
+- Assets/sprites/cratobeta/face/cratobeta_pointing.png
+- Assets/sprites/shizune/face/shizu_base_cross_rageclossed.png
+Dependencies: []

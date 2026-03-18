@@ -1,0 +1,6 @@
+﻿Id,Evento,Auto,Forzado,Tiempo,Tamano,Coordenadas,Lower,Lower_Tamano,Lower_Coordenadas,Efecto,Efecto_Accion,Efecto_Volumen,Efecto_Esperar
+7,flashback,1,0,5,450x240,0 0,,,,,,,
+10_bbsIn,bbsIn,,,,,,,,,,,,
+13_bbsOut,bbsOut,,,,,,,,,,,,
+14_unlocker,saveUnlocker,,,,,,,,,,,,
+,,,,,,,,,,,,,

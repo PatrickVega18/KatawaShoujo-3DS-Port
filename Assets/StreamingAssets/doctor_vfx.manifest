@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 30384212
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: de2324619304e8903f4bc093a5421ed7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 36c33a819640bead83b84b1645a12e6d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/vfx/med1Es.png
+- Assets/vfx/med1En.png
+- Assets/vfx/med4En.png
+- Assets/vfx/med4Es.png
+- Assets/vfx/med3En.png
+- Assets/vfx/med2Es.png
+- Assets/vfx/med5En.png
+- Assets/vfx/med2En.png
+- Assets/vfx/med3Es.png
+- Assets/vfx/med5Es.png
+Dependencies: []
